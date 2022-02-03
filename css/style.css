@@ -80,7 +80,7 @@ ul {
 .header__images {
     position: absolute;
     right: 0;
-    bottom: -220px;
+    bottom: -270px;
 }
 
 .btn {
@@ -411,6 +411,7 @@ ul {
 .footer__copy{
     display: inline;
 }
+
 
 
 
